@@ -77,7 +77,7 @@
 
 | Project | Description | Technologies |
 |---------|-------------|---------------|
-| **[Project 1](https://github.com/seu-usuario/projeto1)** | Brief description here | React, Node.js, MongoDB |
+| **[Project 1](https://github.com/4Ryzen/Hyperion)** | Hyperion Discord Bot | PostgreSQL, Node.js, Discord.js, TypeScript |
 | **[Project 2](https://github.com/seu-usuario/projeto2)** | Brief description here | Vue.js, Python, PostgreSQL |
 | **[Project 3](https://github.com/seu-usuario/projeto3)** | Brief description here | TypeScript, Express, Docker |
 
