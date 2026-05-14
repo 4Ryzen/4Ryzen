@@ -1,16 +1,16 @@
 <img src = "eeveebanner.png" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">
+  <a href="https://github.com/4Ryzen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/ryzen-%E2%80%8E-4340213ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/seu-usuario" target="_blank">
+  <a href="https://x.com/4Ryzennn" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:unavaliable@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
