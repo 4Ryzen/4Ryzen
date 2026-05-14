@@ -22,7 +22,7 @@
 <img src="https://media.giphy.com/media/nyFUx3Fv1nWQc/giphy.gif" width="280" align="right" style="margin-left: 20px;" />
 
 <p>
-  Hey there! <em><b>I'm Ryan</b></em>, a Full-Stack Developer passionate about building modern web applications. Like Eevee evolving into different forms, I adapt my skills across multiple technologies to solve complex problems. I work primarily with Front-End, Back-End, and Linux environments, always exploring new technologies and best practices.
+  Hey there! <em><b>I'm Ryzen</b></em>, a Full-Stack Developer passionate about building modern web applications. Like Eevee evolving into different forms, I adapt my skills across multiple technologies to solve complex problems. I work primarily with Front-End, Back-End, and Linux environments, always exploring new technologies and best practices.
 </p>
 
 <br/>
