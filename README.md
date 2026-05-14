@@ -19,7 +19,7 @@
 
 <h2 align="center"> 🦊 <em>About me</em> </h2>
 
-<img src="https://media.giphy.com/media/nyFUx3Fv1nWQc/giphy.gif" width="280" align="right" style="margin-left: 20px;" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IxNnhzMW5xaHV3enUyYjRzMHk3NWh0N3kzZmgxaDgzcnJ2NHhwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOMwWJQnsGe7YtdzTx/giphy.gif" width="280" align="right" style="margin-left: 20px;" />
 
 <p>
   Hey there! <em><b>I'm Ryzen</b></em>, a Full-Stack Developer passionate about building modern web applications. Like Eevee evolving into different forms, I adapt my skills across multiple technologies to solve complex problems. I work primarily with Front-End, Back-End, and Linux environments, always exploring new technologies and best practices.
