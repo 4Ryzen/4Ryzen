@@ -63,10 +63,10 @@
 <h2 align="center"> 📊 <em>GitHub Statistics</em> </h2>
 
 <div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=4Ryzen&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=4Ryzen&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Ryzen&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" width="48%"/>
 </div>
 
 <br/>
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-**Made with ❤️ by 4Ryzen** 🦊
+**🇧🇷 | Brasil no Topo** 🦊
 
 *"Like Eevee, I evolve to meet every challenge"*
 
