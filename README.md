@@ -1,4 +1,4 @@
-<img src = "eevee-banner.jpg" width="100%"/>
+<img src = "Eevee.jfif" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/seu-usuario" target="_blank">
