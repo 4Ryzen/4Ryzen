@@ -91,6 +91,6 @@
 
 **🇧🇷 | Brasil no Topo** 🦊
 
-*"Like Eevee, I evolve to meet every challenge"*
+*"Always drinking coffee"*
 
 </div>
