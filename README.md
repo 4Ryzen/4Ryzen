@@ -17,12 +17,12 @@
 
 <br>
 
-<h2 align="center"> 🦊 <em>About me</em> </h2>
+<h2 align="center"> 🇺🇲 <em>About me</em> </h2>
 
 <img src="giphy.gif" width="280" align="right" style="margin-left: 20px;" />
 
 <p>
-  Hey there! <em><b>I'm Ryzen</b></em>, a Full-Stack Developer passionate about building modern web applications. Like Eevee evolving into different forms, I adapt my skills across multiple technologies to solve complex problems. I work primarily with Front-End, Back-End, and Linux environments, always exploring new technologies and best practices.
+  Hello. <em><b>I'm Ryzen</b></em>, a Full-Stack Developer passionate about building modern web applications. I work primarily with Front-End, Back-End, and Linux environments, always exploring new technologies and best practices.
 </p>
 
 <br/>
@@ -31,7 +31,7 @@
    💻 <em><b> Full-Stack Developer </b></em> <br/>
    🐧 <em><b> Linux Enthusiast & Terminal Power User </b></em><br/>
    🚀 <em><b> Building scalable web solutions </b></em><br/>
-   📚 <em><b> Always learning and evolving </b></em><br/>
+   📚 <em><b> Always learning  </b></em><br/>
 </p>
 
 <br/>
@@ -90,7 +90,5 @@
 <div align="center">
 
 **🇧🇷 | Brasil no Topo** 🦊
-
-*"Always drinking coffee"*
 
 </div>
