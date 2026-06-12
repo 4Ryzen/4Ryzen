@@ -19,7 +19,7 @@
 
 <h2 align="center"> 🇺🇲 <em>About me</em> </h2>
 
-<img src="giphy.gif" width="280" align="right" style="margin-left: 20px;" />
+<img src="927d81a3579f4924baac4a00bbf203ae.gif" width="280" align="right" style="margin-left: 20px;" />
 
 <p>
   Hello. <em><b>I'm Ryzen</b></em>, a Full-Stack Developer passionate about building modern web applications. I work primarily with Front-End, Back-End, and Linux environments, always exploring new technologies and best practices.
