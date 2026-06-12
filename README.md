@@ -1,4 +1,4 @@
-<img src = "8ad5315f0f84a558d68d35f442bc6631.jpg" width="100%"/>
+<img src = "2b0fa4e3c2d2503f5f4b44dbc665c9c1.jpg" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/4Ryzen" target="_blank">
